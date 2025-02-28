@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jeni-portfolio/static/css/main.e9c7fbff.css",
+    "main.js": "/jeni-portfolio/static/js/main.5557b5dc.js",
+    "static/js/453.acca0757.chunk.js": "/jeni-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/profile.png": "/jeni-portfolio/static/media/profile.430c505f7ee27bc2351f.png",
+    "static/media/git.png": "/jeni-portfolio/static/media/git.7c58eb7a928786a2acc4.png",
+    "static/media/postgres.png": "/jeni-portfolio/static/media/postgres.41d30ac9e052b399fa3e.png",
+    "static/media/mongodb.png": "/jeni-portfolio/static/media/mongodb.41ae1969f341d30268a1.png",
+    "static/media/express.png": "/jeni-portfolio/static/media/express.548f1cfd65ae2d062126.png",
+    "index.html": "/jeni-portfolio/index.html",
+    "static/media/nextjs.svg": "/jeni-portfolio/static/media/nextjs.2426e69d99a468ba15350524597693c4.svg",
+    "main.e9c7fbff.css.map": "/jeni-portfolio/static/css/main.e9c7fbff.css.map",
+    "main.5557b5dc.js.map": "/jeni-portfolio/static/js/main.5557b5dc.js.map",
+    "453.acca0757.chunk.js.map": "/jeni-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c7fbff.css",
+    "static/js/main.5557b5dc.js"
+  ]
+}
